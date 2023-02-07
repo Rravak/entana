@@ -1,0 +1,39 @@
+.maison
+{
+    background-color: aqua;
+    margin-top: 5%;
+
+}
+
+.search
+{
+    margin-left: 20%;
+    background-color: rgb(255, 255, 255);
+}
+.ville
+{
+    margin-left: 5%;
+}
+
+.deco
+{
+    margin-left: 90%;
+    float: left;
+}
+
+.navbar-brand
+{
+    margin-left: 5%; 
+    float: left;
+}
+
+
+
+/* ------details------------------------------------------- */
+.class
+{
+    display:inline-block;
+    margin-left: 7%;
+}
+/* ------Fin=details------------------------------------------- */
+
